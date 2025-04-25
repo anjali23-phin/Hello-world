@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+
+}
+.heading{
+    color: brown;
+    font-size: 46px;
+}
+#unique{
+    color: red; 
+
+}
+.header{
+    text-align: center;
+}
